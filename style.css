@@ -232,7 +232,7 @@ section {
 }
 
 .skill-box {
-  background: #F2FBF9;
+  background: #E6F2EF;
   padding: 1rem;
   margin-bottom: 1rem;
   border-radius: 8px;
@@ -294,7 +294,7 @@ cite {
 
 .skill-box {
   flex: 1 1 250px;
-  background: #F2FBF9;
+  background: #E6F2EF;
   padding: 1rem;
   border-radius: 8px;
 }
